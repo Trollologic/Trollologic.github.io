@@ -11,7 +11,7 @@
 		font-family: 'Didact Gothic', sans-serif;
 		font-size: 12pt;
 		font-weight: 200;
-		color: #FFF;
+		color: #000000;
 	}
 	
 	
@@ -266,7 +266,8 @@
 
 	.title
 	{
-		margin-bottom: 3em;
+		margin-bottom: 15em;
+		margin-top: 25em;
 	}
 	
 	.title h2
