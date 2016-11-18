@@ -267,7 +267,7 @@
 	.title
 	{
 		margin-bottom: 15em;
-		margin-top: 25em;
+		margin-top: 0em;
 	}
 	
 	.title h2
@@ -324,7 +324,7 @@
 	#logo h1
 	{
 		font-size: 2.6em;
-		color: #79C255;
+		color: #A2A2A2;
 	}
 	
 	#logo a
